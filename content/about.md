@@ -10,7 +10,8 @@ This website can be found [here](https://daniels-test-website.netlify.app/), and
 Lets go through the workflow:
 
 1. Set up a blogdown project infrastructure, which is described [here](https://bookdown.org/yihui/blogdown/)
-2. Set up a new github repository (no readme), and link the git to the Rtudio. This involves some Shell, and is nicely described [here](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session2.4_github.html)
+2. Set up a new github repository (no readme), and link the git to the Rtudio. This involves some Shell, and is nicely described [here](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session2.4_github.html).
+3. Generally, how to do all the git stuff in Rstudio, check [here](https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
 
 
 * Netlify: Then it pretty much up where you want to host it. You can put it on netlify, which is easy when everything is on github and you have an account there.

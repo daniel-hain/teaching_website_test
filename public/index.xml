@@ -6,21 +6,10 @@
     <description>Recent content on Daniels first test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 17 Apr 2020 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.
-This website can be found here, and the corresponding github repository here. I tried to set up an easy process to get a hosted github page set up. Here what I learned so far. First, in connection with RStudio and github, it&amp;rsquo;s rather easy.
-Lets go through the workflow:</description>
-    </item>
     
     <item>
       <title>Test</title>
